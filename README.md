@@ -3,7 +3,7 @@
 </p>
 
 
-## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/mr_dark_prince) 
+## 📨 Elaqe [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Ayxxan) 
 <br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Mr-Dark-Prince&color=blue&style=flat-square&label=Profile+Views)
