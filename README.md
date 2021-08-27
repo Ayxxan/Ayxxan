@@ -1,4 +1,4 @@
-# Hey Guys ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">👼
+# Salam! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">👼
 My name is <b>Nima</b>, I love <b>Coding</b>
 
 🔭 I’m currently working on Watchlist
